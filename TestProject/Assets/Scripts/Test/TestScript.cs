@@ -8,8 +8,21 @@ public class TestScript : MonoBehaviour
     void Start()
     {
         //11:20 수정사항
+
         //11:27 마스터로 체크아웃 후 마스터에서 수정사항1
         //11:30 현재상태에서 브랜치 새로땀 branchTest2
+        //11:21 수정사항 추가 브랜치 새로 딴 시점 branchTest1
+
+        //11:23 branchTest1에서 추가
+        //11:25 branchTest1에서 추가2
+
+
+        //11:53 branchTest1 작업
+    }
+
+    private void FixedUpdate()
+    {
+        //11:51 branchTest1_1 작업
 
     }
 
