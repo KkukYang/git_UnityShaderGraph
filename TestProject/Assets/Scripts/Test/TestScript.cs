@@ -10,6 +10,7 @@ public class TestScript : MonoBehaviour
         //11:20 수정사항
         //11:21 수정사항 추가 브랜치 새로 딴 시점 branchTest1
         //11:23 branchTest1에서 추가
+        //11:25 branchTest1에서 추가2
 
 
     }
