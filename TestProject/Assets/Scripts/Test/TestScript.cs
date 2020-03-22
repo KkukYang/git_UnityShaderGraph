@@ -8,6 +8,8 @@ public class TestScript : MonoBehaviour
     void Start()
     {
         //11:20 수정사항
+        //11:21 수정사항 추가
+
 
     }
 
