@@ -15,6 +15,12 @@ public class TestScript : MonoBehaviour
 
     }
 
+    private void FixedUpdate()
+    {
+        //11:51 branchTest1_1 작업
+
+    }
+
     // Update is called once per frame
     void Update()
     {
