@@ -11,6 +11,8 @@ public class TestScript : MonoBehaviour
         //11:27 마스터로 체크아웃 후 마스터에서 수정사항1
         //11:30 현재상태에서 브랜치 새로땀 branchTest2
 
+
+        OnlyStatic.TestA();
     }
 
     // Update is called once per frame
